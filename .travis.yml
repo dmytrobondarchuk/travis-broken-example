@@ -6,4 +6,4 @@ python:
   - "3.5"
 # command to install dependencies
 # command to ran tests
-script: pytest
+script: pytest test_first.py
